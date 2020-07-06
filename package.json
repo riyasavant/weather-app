@@ -1,0 +1,14 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather app using Open weather API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riya Savant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
