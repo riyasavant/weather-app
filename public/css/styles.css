@@ -1,0 +1,22 @@
+body {
+    background-color: #01101B;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 250px;
+}
+
+div {
+    margin-top: 50px;
+}
+
+input {
+    margin-bottom: 30px;
+    width: 250px;
+    height: 40px;
+}
+
+button {
+    margin-left: 20px;
+}
